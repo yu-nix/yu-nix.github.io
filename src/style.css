@@ -1,0 +1,62 @@
+p { 
+ font-size: 1rem;
+ color: red;
+}
+
+a {
+ color: inherit;
+}
+
+.main-site-background {
+ background-image: url("assets/images/cool-chicken.PNG");
+ background-size: 2.25rem;
+ background-repeat: repeat;
+ background-color: #FFFF94; /* should cool chick not be there :< */
+}
+
+.personal-site-intro {
+ font-size: 4rem;
+ font-family: "Luminari", fantasy;
+ color: black;
+}
+
+.big-medieval-font {
+ font-size: 4rem;
+ font-family: "Luminari", fantasy;
+ color: black;
+}
+
+.small-medieval-font {
+ font-size: 1.5rem;
+ font-family: "Luminari", fantasy;
+}
+
+.light-text {
+ color: white;
+}
+
+
+.main-site-menu {
+ color: white; 
+ background-color: rgba(0, 0, 0, 0.70); 
+ font-size: 2rem;
+ font-family: "Luminari", fantasy;
+}
+
+.menu-list {
+ list-style-type: none;
+ padding: 1rem;
+}
+
+.description-container {
+ background-color: rgba(0, 0, 0, 0.70); 
+ color: white;
+ padding: 1rem;
+}
+
+
+.side-margins {
+ margin-left: 1.5rem;
+ margin-right: 1.5rem;
+}
+

@@ -1,0 +1,11 @@
+.sticker-grid {
+ justify-content: center;
+ display: flex;
+ flex-wrap: wrap;
+}
+
+.sticker-grid > * {
+ height: 10rem;
+ width: 10rem;
+ padding: 0.5rem;
+}
